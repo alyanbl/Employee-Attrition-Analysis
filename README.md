@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 ### Description
-This project analyzes employee attrition patterns to uncover trends and factors influencing employees decisions to leave the company. The goal is to identify high-risk employee groups and provide actionable insights for improving retention and workplace satisfaction.
+This project analyzes employee attrition to identify the key factors that influencing employees’ decisions to leave the company. The objective is to pinpoint high-risk employee groups and provide actionable insights to support retention strategies and improve workplace satisfaction.
 ### Goal of Analysis
 The analysis focuses on answering the following key questions:
 - Which employee groups have the highest attrition?
