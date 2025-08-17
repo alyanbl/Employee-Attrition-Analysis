@@ -10,18 +10,24 @@ The dataset includes employee demographics, tenure, satisfaction levels, and oth
 ### Tools and Technique
 - **Power BI**
    - Data cleaning, modeling, and visualization
-   - DAX: Calculations and measures for advanced metrics and KPIs
-   - Visualization: Interactive dashboards to highlight trends and insights
+   - DAX: Calculations and measures for advanced metrics and KPIs  
+   - Visualization: Interactive dashboards to highlight insights
+     
+     <img width="1257" height="698" alt="image" src="https://github.com/user-attachments/assets/832f228c-3c9a-4994-9196-7c2c8cfc5bcc" />
+
 - **Presentation Slides (PPT)**
-  - Summarize and communicate key findings through clear, visual storytelling
-  - Highlights high-risk employee groups and main attrition factors for stakeholders
+  - Summarized and communicated key findings through visual storytelling  
+  - Highlighted high-risk employee groups and major attrition factors for stakeholders
+
+    <img width="1446" height="816" alt="image" src="https://github.com/user-attachments/assets/25b11ea2-2154-4890-965e-9c403ed42ae6" />
+
 ### Key Insights
-- **High-Risk Groups:** Attrition is highest among **young females** with **short tenure**.  
+- **High-Risk Groups:** Attrition is highest among **young female employees** with **short tenure**.  
 - **Main Contributing Factors:**  
   - **Work Environment:** 57% of employees who left reported **low satisfaction** with their work environment.  
-  - **Overtime:** 54% of employees who left reported excessive overtime.  
+  - **Overtime:** 54% of employees who left reported **excessive overtime**.  
 - These factors significantly drive attrition, even among employees who are otherwise satisfied with their jobs.
 ### Presentation Slide
-A presentation slide has been created to visualize key findings and communicate insights clearly. 
- - Highlights employee groups at risk and main attrition factors.
- - Supports actionable recommendations for HR and management decisions.
+A presentation deck was created to visualize key findings and communicate insights clearly.  
+- Highlights high-risk employee groups and main attrition factors  
+- Supports actionable recommendations for HR and management
